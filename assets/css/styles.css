@@ -54,7 +54,7 @@
 
 
 
-/*=============== BASE ===============*/
+/*================== BASE ===================*/
 * {
   box-sizing: border-box;
   padding: 0;
@@ -599,8 +599,8 @@ img {
 
 
 
-/*=============== MEDIA QUERIES ===============*/
-/* For small devices */
+
+
 @media screen and (max-width: 340px) {
   .container {
     margin-left: var(--mb-1);
@@ -643,7 +643,7 @@ img {
   }
 }
 
-/* For medium devices */
+
 @media screen and (min-width: 576px) {
   .home__container {
     grid-template-columns: .8fr 1fr;
@@ -688,6 +688,7 @@ img {
     justify-content: center;
   }
 }
+
 
 @media screen and (min-width: 767px) {
   body {
@@ -765,6 +766,7 @@ img {
     grid-template-columns: .4fr .7fr .7fr 1fr;
   }
 }
+
 
 /* For large devices */
 @media screen and (min-width: 1024px) {

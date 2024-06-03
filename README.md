@@ -25,4 +25,4 @@ At first I didn't know where to start to learn the Sass tool, but I found the tu
 
 ![Beats 5](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/eddd4eba-3e12-42be-b2f2-e558a1a52927)
 
-![Beats 6](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/6b03d93d-1d51-42d6-9538-3c2af36fd92c)
+![Beats 6](https://github.com/ArthurSantDev/Beats-LP/assets/159972613/1b108809-6db6-492b-86bf-11019f56cef9)
