@@ -26,3 +26,9 @@ At first I didn't know where to start to learn the Sass tool, but I found the tu
 ![Beats 5](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/eddd4eba-3e12-42be-b2f2-e558a1a52927)
 
 ![Beats 6](https://github.com/ArthurSantDev/Beats-LP/assets/159972613/1b108809-6db6-492b-86bf-11019f56cef9)
+
+![Mobile-1](https://github.com/ArthurSantDev/Beats-LandingPage/assets/159972613/f76c0c2b-2982-47de-b8f2-4c7e35720ce8)
+![Mobile-2](https://github.com/ArthurSantDev/Beats-LandingPage/assets/159972613/0cab5411-4525-45fd-bbb6-c89d56a21ec0)
+![Mobile-3](https://github.com/ArthurSantDev/Beats-LandingPage/assets/159972613/1ab06037-c2ab-41f1-81a5-5e773d2690b5)
+![Mobile-4](https://github.com/ArthurSantDev/Beats-LandingPage/assets/159972613/acd16300-e894-4292-8b10-9d8a9137e3b2)
+![Mobile-5](https://github.com/ArthurSantDev/Beats-LandingPage/assets/159972613/320e3776-3133-4a33-8272-6e570aba757e)
