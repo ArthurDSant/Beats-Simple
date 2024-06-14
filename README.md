@@ -15,20 +15,19 @@ At first I didn't know where to start to learn the Sass tool, but I found the tu
 
 ## Screenshot
 
-![Beats 1](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/cc6442bd-7415-456a-8c81-c5eaa3d08d14)
+![Beats 1](https://github.com/ArthurSantDev/Beats/assets/159972613/5cff6b98-9f9b-46d0-8e57-0eb2c85d0e8d)
 
-![Beats 2](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/cc7be4a1-b0d9-4464-941d-216ac81c8a5e)
+![Beats 2](https://github.com/ArthurSantDev/Beats/assets/159972613/d1a9227f-c611-4fc4-8b06-cd6f144e8fa4)
 
-![Beats 3](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/6e0feffc-d713-459f-b648-80f982d97f29)
+![Beats 3](https://github.com/ArthurSantDev/Beats/assets/159972613/bcd581a1-042d-4160-bffd-952a3a548fe7)
 
-![Beats 4](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/4ac09022-662d-4505-a2aa-516ece2c208c)
+![Beats 4](https://github.com/ArthurSantDev/Beats/assets/159972613/3cd83936-a077-4575-ae58-095fe42d2ef0)
 
-![Beats 5](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/eddd4eba-3e12-42be-b2f2-e558a1a52927)
+![Beats 5](https://github.com/ArthurSantDev/Beats/assets/159972613/9bcee64a-10cc-4304-a4de-76831c206bce)
 
-![Beats 6](https://github.com/ArthurSantDev/Beats-LP/assets/159972613/1b108809-6db6-492b-86bf-11019f56cef9)
-
-![Mobile-1](https://github.com/ArthurSantDev/Beats-LandingPage/assets/159972613/f76c0c2b-2982-47de-b8f2-4c7e35720ce8)
-![Mobile-2](https://github.com/ArthurSantDev/Beats-LandingPage/assets/159972613/0cab5411-4525-45fd-bbb6-c89d56a21ec0)
-![Mobile-3](https://github.com/ArthurSantDev/Beats-LandingPage/assets/159972613/1ab06037-c2ab-41f1-81a5-5e773d2690b5)
-![Mobile-4](https://github.com/ArthurSantDev/Beats-LandingPage/assets/159972613/acd16300-e894-4292-8b10-9d8a9137e3b2)
-![Mobile-5](https://github.com/ArthurSantDev/Beats-LandingPage/assets/159972613/320e3776-3133-4a33-8272-6e570aba757e)
+![MI1](https://github.com/ArthurSantDev/Beats/assets/159972613/3de3c0cc-a61d-4665-8065-9149ac9a1d5c)
+![MI2](https://github.com/ArthurSantDev/Beats/assets/159972613/8999f433-b100-4a00-a121-543c95b545b0)
+![MI3](https://github.com/ArthurSantDev/Beats/assets/159972613/02be4acb-693e-48d3-b00d-3a58f83c1428)
+![MI4](https://github.com/ArthurSantDev/Beats/assets/159972613/0c04bbe5-ea47-46d3-a90c-a4ac566789ec)
+![MI5](https://github.com/ArthurSantDev/Beats/assets/159972613/1b69dd82-8f46-4bbc-837e-d3e385a3df51)
+![MI6](https://github.com/ArthurSantDev/Beats/assets/159972613/be5cd827-b670-4eee-9536-f9bb023a69b9)
