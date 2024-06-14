@@ -28,6 +28,7 @@ At first I didn't know where to start to learn the Sass tool, but I found the tu
 ![MI1](https://github.com/ArthurSantDev/Beats/assets/159972613/3de3c0cc-a61d-4665-8065-9149ac9a1d5c)
 ![MI2](https://github.com/ArthurSantDev/Beats/assets/159972613/8999f433-b100-4a00-a121-543c95b545b0)
 ![MI3](https://github.com/ArthurSantDev/Beats/assets/159972613/02be4acb-693e-48d3-b00d-3a58f83c1428)
+
 ![MI4](https://github.com/ArthurSantDev/Beats/assets/159972613/0c04bbe5-ea47-46d3-a90c-a4ac566789ec)
 ![MI5](https://github.com/ArthurSantDev/Beats/assets/159972613/1b69dd82-8f46-4bbc-837e-d3e385a3df51)
 ![MI6](https://github.com/ArthurSantDev/Beats/assets/159972613/be5cd827-b670-4eee-9536-f9bb023a69b9)
